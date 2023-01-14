@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="d:\lazarus\fpc\3.2.2\bin\x86_64-win64\fpc.exe" Date="1429738194"/>
+  <Params Value=" -MObjFPC -Scghi -O1 -gw2 -godwarfsets -gl -WG -l -vewnhibq -FiE:\onedrive\project\Lazarus\四则运算\lib\x86_64-win64 -Fud:\lazarus\lcl\units\x86_64-win64\win32 -Fud:\lazarus\lcl\units\x86_64-win64 -Fud:\lazarus\components\freetype\lib\x86_64-win64 -Fud:\lazarus\components\lazutils\lib\x86_64-win64 -Fud:\lazarus\packager\units\x86_64-win64 -FuE:\onedrive\project\Lazarus\四则运算\ -FUE:\onedrive\project\Lazarus\四则运算\lib\x86_64-win64\ -FEE:\onedrive\project\Lazarus\四则运算\ -oE:\onedrive\project\Lazarus\四则运算\project1.exe -dLCL -dLCLwin32 project1.lpr"/>
+</CONFIG>
