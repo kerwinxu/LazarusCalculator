@@ -373,3 +373,7 @@ end;
 
 
 不更新了，我总结了一下，delphi的强大是控件体系，并且pascal没有明显的短板，作为一个老古董语言，这很不容易，只是我看这个语言真的是别扭，语法严谨（begin和end一大堆，真不如{}），竟然没有好的编辑器，最大的问题是，我找问题的解决方案，找不到人啊，这个太小众了。
+
+我收回前面的话，我刚才看了，[https://wiki.freepascal.org/LazReport_Tutorial](https://wiki.freepascal.org/LazReport_Tutorial),快速的做一个报表的，不得不说，真香.
+
+有时间的话多看一下控件，快速开发，名不虚传。
